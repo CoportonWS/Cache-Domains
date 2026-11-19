@@ -1,3 +1,3 @@
 gamedownloads.rockstargames.com
-gamedownloads.rockstargames.edgekey.net
+gamedownloads-rockstargames.edgekey.net
 patches.rockstargames.com
